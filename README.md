@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a text editor in C++**
+ 🔭 I’m currently working on **an iOS app**
  
- 🌱 I’m currently learning **AWS, Linux**
+ 🌱 I’m currently learning **React Native**
 
 💬 Ask me about **my [website](https://ryanleyhe.github.io/), my [experience](https://ryanleyhe.github.io/assets/Ryan_Leyhe_Resume_1.pdf), or my [projects](https://github.com/RyanLeyhe?tab=repositories)**
 
