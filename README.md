@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **rocket launch software**
+ 🔭 I’m currently working on **cybersecurity threat analysis software**
  
- 🌱 I’m currently learning **C# and C++**
+ 🌱 I’m currently learning **Pandas, Matplotlib, NVIDIA Morpheus Framework**
 
 💬 Ask me about **my [website](https://ryanleyhe.github.io/), my [experience](https://ryanleyhe.github.io/assets/Ryan_Leyhe_Resume_1.pdf), or my [projects](https://github.com/RyanLeyhe?tab=repositories)**
 
