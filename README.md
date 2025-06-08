@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+Leyhe!;" />
 </h1>
 
-<h3 align="center">Software Developer and 3rd Year Student at the University of Virginia</h3>
+<h3 align="center">Software Engineer and 4th Year Student at the University of Virginia</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **cybersecurity threat analysis software**
+ 🔭 I’m currently working on **Enterprise data feed and database systems**
  
- 🌱 I’m currently learning **Pandas, Matplotlib, NVIDIA Morpheus Framework**
+ 🌱 I’m currently learning **Elasticsearch, Rally, Kafka**
 
 💬 Ask me about **my [website](https://ryanleyhe.github.io/), my [experience](https://ryanleyhe.github.io/assets/Ryan_Leyhe_Resume_1.pdf), or my [projects](https://github.com/RyanLeyhe?tab=repositories)**
 
