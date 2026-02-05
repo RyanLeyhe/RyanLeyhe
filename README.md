@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Chrome Extension development, DevOps tooling**
+ 🔭 I’m currently working on **Chrome Extension development, DevOps tooling, and revamping my portfolio website**
  
  🌱 I’m currently learning **TS/JS, Chrome APIs, Coverity**
 
