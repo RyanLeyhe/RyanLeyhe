@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Enterprise data feed and database systems**
+ 🔭 I’m currently working on **Chrome Extension development, DevOps tooling**
  
- 🌱 I’m currently learning **Elasticsearch, Rally, Kafka**
-
-💬 Ask me about **my [website](https://ryanleyhe.github.io/), my [experience](https://ryanleyhe.github.io/assets/Ryan_Leyhe_Resume_1.pdf), or my [projects](https://github.com/RyanLeyhe?tab=repositories)**
+ 🌱 I’m currently learning **TS/JS, Chrome APIs, Coverity**
 
  </div>
 
